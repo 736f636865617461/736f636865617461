@@ -1,6 +1,8 @@
-### Hi there 👋
+- ⚡ Fun fact: D0n't jud9e m3 bec0z 1'm qu!et. N0 on3 pl@nz a murd3r ou7 l0ud.
 
 <!--
+### Hi there 👋
+
 **736f636865617461/736f636865617461** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,5 +14,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
